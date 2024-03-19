@@ -1,0 +1,6 @@
+2024-03-15 12:38:09,166 - queue_reader.log - INFO - Waiting for messages. To exit press CTRL+C
+2024-03-15 12:38:29,004 - queue_reader.log - INFO - Received id 1 from rabbitMQ
+2024-03-15 12:45:47,680 - queue_reader.log - INFO - Received id 2 from rabbitMQ
+2024-03-15 13:19:46,016 - queue_reader.log - INFO - Waiting for messages. To exit press CTRL+C
+2024-03-15 13:20:04,552 - queue_reader.log - INFO - Received id 3 from rabbitMQ
+2024-03-15 13:27:06,239 - queue_reader.log - INFO - Received id 4 from rabbitMQ

@@ -1,0 +1,4 @@
+2024-03-15 12:38:30,607 - object_storage.downloader.log - INFO - File with name 1, was downloaded in system as 1
+2024-03-15 12:45:49,887 - object_storage.downloader.log - INFO - File with name 2, was downloaded in system as 2
+2024-03-15 13:20:06,177 - object_storage.downloader.log - INFO - File with name 3, was downloaded in system as 3
+2024-03-15 13:27:08,214 - object_storage.downloader.log - INFO - File with name 4, was downloaded in system as 4

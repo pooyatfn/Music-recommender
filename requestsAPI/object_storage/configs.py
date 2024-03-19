@@ -1,0 +1,6 @@
+import os
+
+OBJECT_STORAGE_ENDPOINT = os.getenv("OBJECT_STORAGE_ENDPOINT", "https://storage.iran.liara.space")
+OBJECT_STORAGE_BUCKET_NAME = os.getenv("OBJECT_STORAGE_BUCKET_NAME", "object-storage")
+OBJECT_STORAGE_ACCESS_KEY = os.getenv("OBJECT_STORAGE_ACCESS_KEY", "avl59b7q3b5kumkd")
+OBJECT_STORAGE_SECRET_KEY = os.getenv("OBJECT_STORAGE_SECRET_KEY", "90ea2f90-bda9-445d-acfd-f8e4f9e724f1")

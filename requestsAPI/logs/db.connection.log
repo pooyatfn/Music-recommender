@@ -1,0 +1,4 @@
+2024-03-15 12:38:24,059 - db.connection.log - INFO - Inserted data: [(1, 'pooya6516@gmail.com', 'pending', None)]
+2024-03-15 12:45:43,667 - db.connection.log - INFO - Inserted data: [(2, 'pooya6516@gmail.com', 'pending', None)]
+2024-03-15 13:20:01,506 - db.connection.log - INFO - Inserted data: [(3, 'pooya6516@gmail.com', 'pending', None)]
+2024-03-15 13:27:02,839 - db.connection.log - INFO - Inserted data: [(4, 'pooya6516@gmail.com', 'pending', None)]

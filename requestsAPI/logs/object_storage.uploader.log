@@ -1,0 +1,4 @@
+2024-03-15 12:38:27,986 - object_storage.uploader.log - INFO - File with name 1, was uploaded
+2024-03-15 12:45:46,074 - object_storage.uploader.log - INFO - File with name 2, was uploaded
+2024-03-15 13:20:03,215 - object_storage.uploader.log - INFO - File with name 3, was uploaded
+2024-03-15 13:27:04,922 - object_storage.uploader.log - INFO - File with name 4, was uploaded
