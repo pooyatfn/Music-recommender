@@ -1,4 +1,4 @@
-# Ticketing
+# Music-recommender
 
 ## About the project
 this is a Music recommender system that users can send their intedetes music/voice file and system recommends them 5 similar Music based on that file.
